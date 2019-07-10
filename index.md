@@ -13,7 +13,7 @@
 
 以下のアンケートにお答えください。
 
-[アンケートはこちら](https://forms.gle/c23xCzxC6Y9LbtAf9)
+[アンケートはこちら](https://forms.gle/c23xCzxC6Y9LbtAf9){:target="_blank"}
 
 
 ## アンケートが終わりましたら、講座を始めます。
