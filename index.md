@@ -18,13 +18,6 @@
 11:50　アンケート
 
 12:00  終了
-## 2. アンケート
 
-以下のアンケートにお答えください。
-
-[アンケートはこちら](https://forms.gle/c23xCzxC6Y9LbtAf9){:target="_blank"}
-
-
-## アンケートが終わりましたら、講座を始めます。
 
 [次へ](https://junya11.github.io/littlebits/mydemo)
